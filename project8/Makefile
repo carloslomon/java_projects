@@ -1,0 +1,18 @@
+.PHONY: 
+update:
+	git add java_project_eight.html
+	git commit java_project_eight.html -m "updated java_project_eight.html for custom maintenance"
+
+.PHONY: 
+update_push:
+	git add java_project_eight.html
+	git commit java_project_.html -m "updated java_project_eight.html for custom maintenance"
+	git push
+.PHONY: 
+push:
+	git push
+
+
+
+
+
