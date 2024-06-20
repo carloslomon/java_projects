@@ -1,0 +1,4 @@
+.PHONY: 
+test: 
+	git add easter_hours_prime.html
+	git commit easter_hours_prime.html -m "tested that shit"
